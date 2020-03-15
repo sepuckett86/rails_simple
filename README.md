@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Following the Rails tutorial:
+https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project
 
 Things you may want to cover:
 
